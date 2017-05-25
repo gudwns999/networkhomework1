@@ -1,0 +1,9 @@
+﻿chat_client_win.obj : error LNK2019: __imp_closesocket 외부 기호(참조 위치: SendMSG 함수)에서 확인하지 못했습니다.
+chat_client_win.obj : error LNK2019: __imp_connect 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+chat_client_win.obj : error LNK2019: __imp_htons 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+chat_client_win.obj : error LNK2019: __imp_inet_addr 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+chat_client_win.obj : error LNK2019: __imp_recv 외부 기호(참조 위치: RecvMSG 함수)에서 확인하지 못했습니다.
+chat_client_win.obj : error LNK2019: __imp_send 외부 기호(참조 위치: SendMSG 함수)에서 확인하지 못했습니다.
+chat_client_win.obj : error LNK2019: __imp_socket 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+chat_client_win.obj : error LNK2019: __imp_WSAStartup 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+C:\Users\Kim\Desktop\7학기\네트워크\(2016) 과제1\tutorial\Chat_client\x64\Debug\Chat_client.exe : fatal error LNK1120: 8개의 확인할 수 없는 외부 참조입니다.
